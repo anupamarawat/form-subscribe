@@ -20,8 +20,8 @@ This project demonstrates how to create a responsive form with name and email fi
 
 ---
 
-## 📸 Screenshot  
-(Add a screenshot of your form here if possible)  
+
+
 
 ---
 
